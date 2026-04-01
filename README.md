@@ -1,4 +1,4 @@
-# Machine-Learning-Programming-Challenege
+# Machine-Learning-Programming-Challenge
 Programming Challenge of a course that I did
 
 # Assignment description from professors
